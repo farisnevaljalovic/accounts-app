@@ -1,0 +1,12 @@
+a{
+    text-decoration: none !important;
+}
+.nav-link{
+    width: fit-content;
+    padding: 7px 10px;
+    color: lightgray;
+}
+.activeLink{
+    padding-bottom: 5px;
+    border-bottom: 2px solid tomato;
+}
